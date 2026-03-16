@@ -9603,7 +9603,7 @@ function startNFCListening() {
     stopNFCListening();
     
     if(nfcStatus) {
-        nfcStatus.innerHTML = '<i class="fas fa-spinner fa-spin"></i> Waiting for ESP32-C3 tap...';
+        nfcStatus.innerHTML = '<i class="fas fa-spinner fa-spin"></i> TAP YOUR CARD OR PHONE...';
         nfcStatus.style.background = 'rgba(255,255,255,0.2)';
         nfcStatus.style.display = 'block';
     }
