@@ -660,7 +660,7 @@ export function initSidebar() {
             <div class="brand-icon"><i class="fas fa-piggy-bank"></i></div>
             <div class="brand-text">
                 <h2>Gene's Lechon</h2>
-                <span>Admin Panel</span>
+                <span>Cashier Panel</span>
             </div>
         </div>
         <p class="menu-label">MENU</p>
